@@ -1,0 +1,16 @@
+<resources>
+    <!-- Cores principais do app -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background">#F5F5F5</color>
+
+    <!-- Cores usadas para diferenciar Receita (verde) de Despesa (vermelho) -->
+    <color name="receita_verde">#2E7D32</color>
+    <color name="receita_verde_fundo">#E8F5E9</color>
+    <color name="despesa_vermelho">#C62828</color>
+    <color name="despesa_vermelho_fundo">#FFEBEE</color>
+
+    <color name="texto_secundario">#757575</color>
+</resources>

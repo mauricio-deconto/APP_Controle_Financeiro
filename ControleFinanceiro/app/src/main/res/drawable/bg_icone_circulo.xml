@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <!-- A cor real é definida dinamicamente no código (Adapter), aqui é só o formato -->
+    <solid android:color="@color/primary" />
+</shape>

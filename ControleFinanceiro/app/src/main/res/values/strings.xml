@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Controle Financeiro</string>
+    <string name="titulo_extrato">Extrato (Fluxo de Caixa)</string>
+
+    <!-- Tela de Lançamento -->
+    <string name="label_valor">Valor (R$)</string>
+    <string name="label_descricao">Descrição</string>
+    <string name="label_data">Data</string>
+    <string name="hint_data">Toque para selecionar a data</string>
+    <string name="label_receita">Receita</string>
+    <string name="label_despesa">Despesa</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_ver_extrato">Ver Extrato</string>
+
+    <!-- Mensagens de validação -->
+    <string name="erro_valor_vazio">Informe um valor válido</string>
+    <string name="erro_descricao_vazia">Informe a descrição</string>
+    <string name="erro_data_vazia">Selecione a data</string>
+    <string name="msg_salvo_sucesso">Lançamento salvo com sucesso!</string>
+
+    <!-- Tela de Extrato -->
+    <string name="label_saldo">Saldo total</string>
+    <string name="lista_vazia">Nenhum lançamento cadastrado ainda.</string>
+</resources>

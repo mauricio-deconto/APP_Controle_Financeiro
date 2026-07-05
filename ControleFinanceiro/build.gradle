@@ -1,0 +1,7 @@
+// Arquivo de build no nível do PROJETO (não do módulo app).
+// Aqui declaramos os plugins usados pelos módulos do projeto.
+plugins {
+    id 'com.android.application' version '8.2.2' apply false
+    id 'org.jetbrains.kotlin.android' version '1.9.22' apply false
+    id 'org.jetbrains.kotlin.kapt' version '1.9.22' apply false
+}
